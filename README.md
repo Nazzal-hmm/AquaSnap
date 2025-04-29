@@ -1,7 +1,7 @@
 # AquaSnap
 
 <p align="center">
-  <img src="assets/aquasnap.jpg" alt="AquaSnap Logo" width="300"/>
+  <img src="assets/aquasnap.jpg" alt="AquaSnap Logo" width="500"/>
 </p>
 
 ## Mission Statement
